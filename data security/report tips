@@ -1,0 +1,5 @@
+An example is today’s ARP spoofing question. What are we doing? We are getting the attacker to send a maliciously crafted ARP reply to a victim, who then updates their ARP table to reflect a malicious change of destination from one virtual machine to another. Screenshots you can submit are the ARP table before and after the attack.
+
+Please write some words! I'm marking and I don't like reading too low effort submissions. That being said, please don't write essays, just say what you need.
+
+A lot of people had problems in today’s lab setting up virtual machines. Sorry for that, the documentation we had in previous years must have gotten lost, so I rewrote a new guide with plenty of screenshots. It is available on the lab page.
